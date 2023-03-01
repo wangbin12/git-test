@@ -7,5 +7,6 @@ public class GetTest
     {
         System.out.println("ssd");
         System.out.println("ssd");
+        System.out.println("ssd");
     }
 }
